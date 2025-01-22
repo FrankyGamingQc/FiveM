@@ -1,6 +1,8 @@
 # FiveM
 AntiCheat  FiveM
 
+start fgqc_anticheat
+
 Bonjour à tous,
 
 Je tiens à vous informer que le projet sur lequel je travaille n'est pas encore terminé.
