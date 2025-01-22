@@ -1,0 +1,2 @@
+# FiveM
+AntiCheat  FiveM
